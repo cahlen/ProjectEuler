@@ -1,7 +1,7 @@
 '''
 Project Euler Problem 9
 
-There exists exactly one pythagorean triple where a < b < c, and a^2+b^2+c^2 = 1000.  Find the product abc.
+There exists exactly one pythagorean triple where a < b < c, and a+b+c = 1000 and a^2+b^2=c^2.  Find the product abc.
 
 Created on Dec 18, 2014
 
